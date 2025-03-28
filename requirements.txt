@@ -1,0 +1,5 @@
+opencv-python
+numpy
+RPi.GPIO
+adafruit-circuitpython-pca9685
+imutils
